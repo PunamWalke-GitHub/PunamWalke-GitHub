@@ -1,4 +1,4 @@
-👋 Hi there! I’m an Apps and Integration Developer with over 2.5 years of experience in creating seamless and efficient solutions. My expertise lies in C#, .NET, and Azure Core services, and I specialize in integrating diverse systems and automating workflows.
+👋 Hi there! I’m an Apps and Integration Developer with over 5 years of experience in creating seamless and efficient solutions. My expertise lies in C#, .NET, and Azure Core services, and I specialize in integrating diverse systems and automating workflows.
 
 **Skills:**
 
