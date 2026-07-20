@@ -1,4 +1,4 @@
-👋 Hi there! I’m an Apps and Integration Developer with over 5 years of experience in creating seamless and efficient solutions. My expertise lies in C#, .NET, and Azure Core services, and I specialize in integrating diverse systems and automating workflows.
+👋 Hi there! I’m Senior Software Developer with over 5 years of experience in creating seamless and efficient solutions. My expertise lies in C#, .NET, and Azure Core services, and I specialize in integrating diverse systems and automating workflows.
 
 **Skills:**
 
@@ -6,7 +6,7 @@ Languages & Frameworks: C#, .NET, React, Typescript, Javascript, HTML, CSS
 
 Cloud & DevOps: Azure Core services, Azure DevOps, Kubernetes, Terraform
 
-Integration & Automation: Microsoft Power Platform, Microsoft BizTalk Server, Azure Logic Apps, Azure Functions
+Integration & Automation: Microsoft Power Platform, Microsoft BizTalk Server, Azure Logic Apps, Azure Functions, Kafka
 
 Databases: SQL, Transact SQL, Entity Framework
 
